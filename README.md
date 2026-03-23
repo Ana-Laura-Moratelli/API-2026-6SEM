@@ -117,11 +117,13 @@ Em breve!
 <br />
 
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
+<br />
 <img src="media/technologies.png">
 
 <br />
 
 <h2 id='padroes-de-commit'> 📨 Padrões de Commit </h2>
+<br />
 <img src="media/commit_structure.png">
 
 <br />
