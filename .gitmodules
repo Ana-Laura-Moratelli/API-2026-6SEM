@@ -1,0 +1,6 @@
+[submodule "FRONT"]
+	path = FRONT
+	url = git@github.com:Sync-FATEC/API-6-FRONT.git
+[submodule "BACK"]
+	path = BACK
+	url = git@github.com:Sync-FATEC/API-6-BACK.git
